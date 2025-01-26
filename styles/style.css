@@ -65,7 +65,7 @@
 }
 
 .cover__title {
-  padding: 186px 50px 127px;
+  padding: 186px 50px 128px;
   display: flex;
   flex-direction: column;
   gap: 62px;
@@ -99,7 +99,6 @@
 }
 
 .description {
-  height: 51px;
   padding: 0px 50px;
   display: flex;
   justify-content: space-between;
@@ -256,7 +255,6 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  min-height: 180px;
   padding: 0px 50px 82.82px 50px;
   margin-top: 180px;
 }
